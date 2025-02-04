@@ -2,5 +2,8 @@
 name = "n100"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/m0ssc0de/n100"
+description = "n100 list"
 
 [dependencies]
