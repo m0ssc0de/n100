@@ -11,7 +11,7 @@ pub fn n100() -> HashSet<String> {
         "NTAP", "NTES", "NFLX", "NVDA", "NXPI", "ORLY", "PCAR", "PAYX", "PYPL", "PEP", "QCOM",
         "REGN", "ROST", "SGEN", "SIRI", "SWKS", "SPLK", "SBUX", "SNPS", "TMUS", "TTWO", "TSLA",
         "TXN", "TCOM", "ULTA", "UAL", "VRSN", "VRSK", "VRTX", "WBA", "WDAY", "WDC", "WLTW", "XEL",
-        "XLNX ",
+        "XLNX",
     ]
     .into_iter()
     .map(String::from)
